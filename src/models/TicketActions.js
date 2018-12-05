@@ -1,0 +1,6 @@
+export const TicketAction = {
+    ADD_SUCCESS: 'TICKET_ADD_SUCCESS',
+    ADD_REQUEST: 'TICKET_ADD_REQUEST',
+    ADD_FAIL: 'TICKET_ADD_FAIL',
+    REMOVE: 'TICKET_REMOVE'
+};

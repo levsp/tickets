@@ -22,6 +22,21 @@
   color: #61dafb;
 }
 
+
+.divTable{
+  display:table;
+  width:auto;
+}
+.divRow{
+  display:table-row;
+  width:auto;
+}
+.divCell{
+  float:left;
+  display:table-column;
+  width:100px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
